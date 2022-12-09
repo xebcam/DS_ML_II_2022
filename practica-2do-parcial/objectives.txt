@@ -1,0 +1,13 @@
+[Antiguo]
+Objetivo general
+Aplicar y Explicar el proceso del aprendizaje no supervisado al área de reconocimiento de voz, plantear un problema de la vida diaria que se da en la sociedad del dia dia con la comunicación entre personas con distintos idiomas , desarrollar un software que facilite la comunicación entre personas de distintos idiomas.
+Objetivos específicos
+Es desarrollar un software de reconocimiento de voz aplicando técnicas de machine learning .
+Aplicar técnicas de aprendizaje no supervisado para reconocimiento de voz.
+Resolver un problema que se da en el mundo real.
+Entender el problema que se presenta entre las personas con distintos idiomas al comunicarse.
+Aprender a implementar soluciones que hacen uso de técnicas de machine learning.
+
+[Nuevo]
+El principal objetivo de la práctica es poder aplicar los conocimientos adquiridos sobre:
+Preprocesamiento de datos, Algoritmos de aprendizaje no supervisado y Validación de modelos a través de la implementación de una solución al problema del área de reconocimiento de voz planteado: “Generar un modelo para el reconocimiento voz del idioma Quechua”

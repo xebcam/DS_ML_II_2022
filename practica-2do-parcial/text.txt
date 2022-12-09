@@ -1,0 +1,4 @@
+redes neuronales convolucionales
+redes neuronales recurrentes (video, audio)
+retropropagacion atravez del tiempo
+GAN

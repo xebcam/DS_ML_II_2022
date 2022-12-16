@@ -6,10 +6,8 @@ import speech_recognition as sr
 import io
 from pydub import AudioSegment
 from translate import Translator
-t = Translator(from_lang="es", to_lang="en")
 
-# tokenizer = Wav2Vec2Processor.from_pretrained('facebook/wav2vec2-base-960h')
-# model = Wav2Vec2ForCTC.from_pretrained('facebook/wav2vec2-base-960h')
+t = Translator(from_lang="es", to_lang="en")
 
 tokenizer = Wav2Vec2Processor.from_pretrained(
     'jonatasgrosman/wav2vec2-large-xlsr-53-spanish')
